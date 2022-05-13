@@ -1,0 +1,13 @@
+.coffee__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item__img{
+    width: 100px;
+}
+
+.coffee__item{
+    margin-left: 18px;
+    margin-bottom: 20px;
+}

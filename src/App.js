@@ -4,14 +4,21 @@
 //   Route,
 // } from "react-router-dom";
 import './App.css';
-import {Navigation} from './components/pages/navigation/Navigation';
 
+import Logo from './components/pages/logotip/Logo';
+import NavMenu  from './components/pages/navigation/NavigationMenu';
+import NavigationSocials from './components/pages/navigation_socials/NavigationSocials';
+import Main from './components/pages/main/Main';
+import Footer from './components/pages/footer/Footer';
 
 function App() {
   return (
     <div className="App">
-      
-<Navigation/>
+      <Logo/>
+<NavMenu/>
+<NavigationSocials/>
+<Main/>
+<Footer/>
       </div>
   );
 }

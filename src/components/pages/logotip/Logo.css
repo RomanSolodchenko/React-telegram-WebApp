@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.logo__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+header{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
