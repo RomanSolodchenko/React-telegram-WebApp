@@ -12,9 +12,9 @@ const NavigationSocials = () => {
     return (
         <div class="nav__socials">
               <ul >
-                  <li><a href="#" >vk</a></li>
-                  <li><a class="nav__socials__item" href="#" >telega</a></li>
-                  <li><a class="nav__socials__item" href="#" >whatup</a></li>
+                  <li><a href="#" ></a><img src="./images/vk.png" alt="vkontakte" /></li>
+                  <li><a href="#" ><img src="./images/telegram.png" alt="telegram" /></a></li>
+                  <li><a href="#" ><img src="./images/whatsapp.png" alt="whatsapp" /></a></li>
     </ul>
         </div>
     );
