@@ -1,18 +1,19 @@
-import React from 'react';
+// import React from 'react';
 // import {
-//     BrowserRouter,
 //     Routes,
 //     Route,
-//     Link
 //   } from "react-router-dom";
 
+//   import{ App} from '../../App';
+//   import {Menu} from '../pages/menu/Menu';
 
-function RoutesDom() {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+// function RoutesDom() {
+//   return (
+//     <Routes>
+// <Route index path="/" element={ <App/>} />
+// <Route path='menu' element={<Menu/>}/>
+//     </Routes>
+//   )
+// }
 
-export default RoutesDom;
+// export default RoutesDom;

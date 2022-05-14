@@ -11,6 +11,9 @@ import NavigationSocials from './components/pages/navigation_socials/NavigationS
 import Main from './components/pages/main/Main';
 import Footer from './components/pages/footer/Footer';
 
+// import { Menu } from './components/pages/menu/Menu';
+// import RoutesDom from "./components/Routes/RoutesDom";
+
 function App() {
   return (
     <div className="App">

@@ -3,9 +3,9 @@ import "./Main.css";
 const Main = () => {
   return (
     <div>
-      <div class="coffee__wrapper">
-        <div class="coffee__item">
-          <div class="item__title">Эспрессо</div>
+      <div className="coffee__wrapper">
+        <div className="coffee__item">
+          <div className="item__title">Эспрессо</div>
           <img
             src="images/coffee-glass.png"
             alt="espresso"
@@ -13,9 +13,9 @@ const Main = () => {
           />
           <button className="button__pay">Купить</button>
         </div>
-        <div class="coffee__item">
+        <div className="coffee__item">
           <div className="item-box">
-            <div class="item__title">Американо</div>
+            <div className="item__title">Американо</div>
             <img
               src="images/coffee-glass.png"
               alt="americano"
@@ -24,8 +24,8 @@ const Main = () => {
             <button className="button__pay">Купить</button>
           </div>
         </div>
-        <div class="coffee__item">
-          <div class="item__title">Капучино</div>
+        <div className="coffee__item">
+          <div className="item__title">Капучино</div>
           <img
             src="images/coffee-glass.png"
             alt="cappuccino"
@@ -33,8 +33,8 @@ const Main = () => {
           />
           <button className="button__pay">Купить</button>
         </div>
-        <div class="coffee__item">
-          <div class="item__title">Латте</div>
+        <div className="coffee__item">
+          <div className="item__title">Латте</div>
           <img
             src="images/coffee-glass.png"
             alt="latte"
@@ -43,8 +43,8 @@ const Main = () => {
           <button className="button__pay">Купить</button>
         </div>
 
-        <div class="coffee__item">
-          <div class="item__title">Раф</div>
+        <div className="coffee__item">
+          <div className="item__title">Раф</div>
           <img
             src="images/coffee-glass.png"
             alt="latte"
@@ -53,8 +53,8 @@ const Main = () => {
           <button className="button__pay">Купить</button>
         </div>
 
-        <div class="coffee__item">
-          <div class="item__title">Мокко</div>
+        <div className="coffee__item">
+          <div className="item__title">Мокко</div>
           <img
             src="images/coffee-glass.png"
             alt="latte"

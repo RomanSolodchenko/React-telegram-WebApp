@@ -10,7 +10,7 @@ import "./NavSocials.css";
 
 const NavigationSocials = () => {
     return (
-        <div class="nav__socials">
+        <div className="nav__socials">
               <ul >
                   <li><a href="#" ></a><img src="./images/vk.png" alt="vkontakte" /></li>
                   <li><a href="#" ><img src="./images/telegram.png" alt="telegram" /></a></li>
