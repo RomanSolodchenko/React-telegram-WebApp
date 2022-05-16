@@ -36,6 +36,7 @@ height: 30px;
 border-radius: 5px;
 font-size: 14px;
 background: rgb(242, 169, 59);
+border: none;
 }
 
 .button__pay:hover{
